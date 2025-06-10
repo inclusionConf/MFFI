@@ -345,3 +345,6 @@ Dataset link: https://www.modelscope.cn/datasets/DDLteam/MFFI/files
 7. **Background Replacement:** Substitutes the background region of a facial image with alternative scene content while preserving facial integrity.
 
 #### Visualization of Multi-level Degradation Operations
+<div align="center">
+  <img src="https://github.com/inclusionConf/MFFI/blob/main/examples.jpeg">
+</div>
