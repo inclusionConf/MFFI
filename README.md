@@ -240,7 +240,7 @@ Dataset link: https://www.modelscope.cn/datasets/DDLteam/MFFI/files
         <td>1470</td>
     </tr>
     <tr>
-        <td rowspan="7">Face Editing (FE)</td>
+        <td rowspan="6">Face Editing (FE)</td>
         <td>DualStyleGAN</td>
         <td>6000</td>
         <td>--</td>
@@ -284,7 +284,7 @@ Dataset link: https://www.modelscope.cn/datasets/DDLteam/MFFI/files
         <td>13950</td>
     </tr>
     <tr>
-        <td rowspan="6">Manual Face PhotoShop (MFPS)</td>
+        <td rowspan="7">Manual Face PhotoShop (MFPS)</td>
         <td>Random Facial Component Swapping</td>
         <td>15000</td>
         <td>--</td>
