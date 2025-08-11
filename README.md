@@ -277,12 +277,6 @@ Dataset link: https://www.modelscope.cn/datasets/DDLteam/MFFI/files
         <td>3000</td>
     </tr>
     <tr>
-        <td>ImageFiltering</td>
-        <td>--</td>
-        <td>--</td>
-        <td>3000</td>
-    </tr>
-    <tr>
         <td>Face Super-Resolution (FSR)</td>
         <td>GPEN</td>
         <td>198000</td>
@@ -325,6 +319,12 @@ Dataset link: https://www.modelscope.cn/datasets/DDLteam/MFFI/files
         <td>--</td>
         <td>--</td>
         <td>6000</td>
+    </tr>
+    <tr>
+        <td>ImageFiltering</td>
+        <td>--</td>
+        <td>--</td>
+        <td>3000</td>
     </tr>
     <tr>
         <td>Total</td>
